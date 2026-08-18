@@ -1,0 +1,6 @@
+{
+  "name": "TransitCommand Login",
+  "description": "Cybernetic dark-themed telemetry and transit command login portal featuring interactive 3D bus rendering, secure operator authentication, and ambient grid aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
